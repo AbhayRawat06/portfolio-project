@@ -23,7 +23,8 @@ This is my personal interactive portfolio built during the Talentize Full Stack 
 2. Open `index.html` in your browser
 
 ## 📸 Preview
-![alt text](image.png)
+![Portfolio Preview](https://raw.githubusercontent.com/AbhayRawat06/portfolio-project/main/assets/portfolio-preview.png)
+
 
 ## 📄 License
 This project is for educational purposes under Talentize Internship.
